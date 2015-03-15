@@ -2692,3 +2692,12 @@ img[alt="guidon3"] {
   color: #d43133;
 }
 
+div#tagsphere {
+  margin: 0px auto;
+  margin-top: 100px;
+}
+
+#wall {
+  text-align: center;
+  color: #000;
+}

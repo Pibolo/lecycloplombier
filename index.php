@@ -51,9 +51,7 @@
                 <div class="row">
                     <div class="col-sm-6 col-xs-4">
                         <div class="top-number"><p style="color:#fff;"><i class="fa fa-phone-square" ></i> <a class="tel" href="tel:+32625714688">06 25 71 46 88</a></p></div>
-                        <ul style="float:right;">
-                            <li class="share_like_fb"><div class="fb-like" data-href="http://www.lecycloplombier.fr/" data-layout="button" data-action="like" data-show-faces="true" data-share="true"></div></li>
-                        </ul>
+                        
                         <!-- <div id="projet_ulule"><p>Soutenez le projet ULULE du Cyclo Plombier <a href="#">ICI</a></p></div> -->
                     </div>
                     <div class="col-sm-6 col-xs-8">
@@ -65,7 +63,7 @@
                                 <li><a href="https://plus.google.com/u/0/110100394692016002602/posts" target="_blank" ><i class="fa fa-google-plus"></i></a></li>
                                 <!-- <li><a href="#" target="_blank"><i class="fa fa-skype"></i></a></li> -->
                                 <li><a href="https://twitter.com/Lecycloplombier" target="_blank"><i class="fa fa-twitter"></i></a><br></li>
-                                
+                                <li class="share_like_fb"><div class="fb-like" data-href="http://www.lecycloplombier.fr/" data-layout="button" data-action="like" data-show-faces="true" data-share="true"></div></li>
                                 <!--<li><a href="#"><i class="fa fa-linkedin"></i></a></li> 
                                 <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
                                 <li><a href="#"><i class="fa fa-skype"></i></a></li> -->
@@ -116,6 +114,25 @@
         </nav><!--/nav-->
 		
     </header><!--/header-->
+    
+    <!-- <section id="partner" class="section_index">
+        <div class="container">
+            <div class="center wow fadeInDown">
+                <h2>SOUTENEZ LE PROJET <span class="red_text">ULULE</span> DU CYCLO PLOMBIER :</h2>
+                <p class="lead" style="color:#fff;">UN CYCLO POUR LE PLOMBIER</p>
+            </div>
+
+            <div class="partners">
+                <ul>
+                    <li> <a href="#"><img class="img-responsive wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="1200ms" src="images/partners/block.png"></a></li>
+                    <li> <a href="#"><img class="img-responsive wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms" src="images/partners/block.png"></a></li>
+                    <li> <a href="http://fr.ulule.com/cyclo-plombier/"><img class="img-responsive wow fadeInDown" alt="Projet ULULE du Cyclo Plombier" data-wow-duration="1000ms" data-wow-delay="600ms" src="images/partners/partner1.png"></a></li>
+                    <li> <a href="#"><img class="img-responsive wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="900ms" src="images/partners/block.png"></a></li>
+                    <li> <a href="#"><img class="img-responsive wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="1500ms" src="images/partners/block.png"></a></li>
+                </ul>
+            </div>        
+        </div>
+    </section> -->
 
     <section id="main-slider" class="no-margin" >
         <div class="carousel slide">
@@ -133,7 +150,7 @@
                                 <div class="carousel-content">
                                     <h1 class="animation animated-item-1">"Efficacité, prestations de qualité"</h1>
                                     
-                                    <a class="btn-slide animation animated-item-3" href="./la_prestation.html">En savoir plus</a>
+                                    <a class="btn-slide animation animated-item-3" href="./la-prestation.php">En savoir plus</a>
                                 </div>
                             </div>
                         </div>
@@ -148,7 +165,7 @@
                                 <div class="carousel-content">
                                     <h1 class="animation animated-item-1">Petite entreprise, grande maitrise</h1>
                                     <h2 class="animation animated-item-2">L’artisan à vélo possède les compétences pour ses interventions dans sa spécialité mais repousse sans cesse son savoir-faire pour étendre son champ d’activité… </h2>
-                                    <a class="btn-slide animation animated-item-3" href="./le_plombier.html">En savoir plus</a>
+                                    <a class="btn-slide animation animated-item-3" href="./le-plombier.php">En savoir plus</a>
                                 </div>
                             </div>
                         </div>
@@ -162,7 +179,7 @@
                                 <div class="carousel-content">
                                     <h1 class="animation animated-item-1">Un artisan responsable</h1>
                                     <h2 class="animation animated-item-2">Une activité attachée à une dynamique économique, écologique avec un capital sympathie : le vélo</h2>
-                                    <a class="btn-slide animation animated-item-3" href="./le_cyclo.html">En savoir plus</a>
+                                    <a class="btn-slide animation animated-item-3" href="./le-cyclo.php">En savoir plus</a>
                                 </div>
                             </div>
                         </div>
@@ -199,7 +216,7 @@
                             <h3 class="media-heading">Le Cyclo</h3>
                             <p>allègement de votre facture en plus de faire un geste pour l’environnement<br><br></p>
                         </div>
-                        <a class="btn-slide animation animated-item-3" href="./le_cyclo.html">En savoir plus</a>
+                        <a class="btn-slide animation animated-item-3" href="./le-cyclo.php">En savoir plus</a>
                     </div>
                 </div>
 
@@ -212,7 +229,7 @@
                             <h3 class="media-heading">Le Plombier</h3>
                             <p>Le Cyclo Plombier, Elian, 35 ans, études de commerce et diplôme en installations sanitaires.</p>
                         </div>
-                        <a class="btn-slide animation animated-item-3 " href="./le_plombier.html">En savoir plus</a>
+                        <a class="btn-slide animation animated-item-3 " href="./le-plombier.php">En savoir plus</a>
                     </div>
                 </div>
 
@@ -225,7 +242,7 @@
                             <h3 class="media-heading">La prestation</h3>
                             <p>Le Cyclo Plombier est spécialisé dans les dépannages...<br><br></p>
                         </div>
-                        <a class="btn-slide animation animated-item-3" href="./la_prestation.html">En savoir plus</a>
+                        <a class="btn-slide animation animated-item-3" href="./la-prestation.php">En savoir plus</a>
                     </div>
                 </div>  
 
@@ -342,25 +359,7 @@
 
 
 
-    <!-- <section id="partner" class="section_index">
-        <div class="container">
-            <div class="center wow fadeInDown">
-                <h2>SOUTENEZ LE PROJET <span class="red_text">ULULE</span> DU CYCLO PLOMBIER :</h2>
-                <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut <br> et dolore magna aliqua. Ut enim ad minim veniam</p>
-            </div>
-
-            <div class="partners">
-                <ul>
-                    <li> <a href="#"><img class="img-responsive wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="1200ms" src="images/partners/block.png"></a></li>
-                    <li> <a href="#"><img class="img-responsive wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms" src="images/partners/block.png"></a></li>
-                    <li> <a href="#"><img class="img-responsive wow fadeInDown" alt="Projet ULULE du Cyclo Plombier" data-wow-duration="1000ms" data-wow-delay="600ms" src="images/partners/partner1.png"></a></li>
-                    <li> <a href="#"><img class="img-responsive wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="900ms" src="images/partners/block.png"></a></li>
-                    <li> <a href="#"><img class="img-responsive wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="1500ms" src="images/partners/block.png"></a></li>
-                </ul>
-            </div>        
-        </div>
-    </section>-->
-
+    
 
     <section id="middle" class="section_index">
         <div class="container">

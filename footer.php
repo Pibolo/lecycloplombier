@@ -11,11 +11,6 @@
                         <li><a href="http://www.lecycloplombier.fr/">Accueil</a></li>
                         <li><a href="mentions.php">Mentions légales</a></li>
                         <li><a href="contact.php">Contact</a></li>
-                        <li><a href="contact.php">Et ouai mémé !!!</a></li>
-
-
-                
-                        
                     </ul>
                 </div>
             </div>

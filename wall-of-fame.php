@@ -104,15 +104,15 @@
 	</header><!--/header-->
 
 	<section id="middle" class="middle_plumber">
-<h1 id="wall">Merci à tous les contributeurs !</h1>
+		<h1 id="wall">Merci à tous les contributeurs !</h1>
 
 		<script type="text/javascript">
 		$(document).ready(function(){
 			$('#tagsphere').tagSphere({
-				height: 660,
-				width: 660,
+				height: 860,
+				width: 860,
 				slower: 0.65,
-				radius: 280,
+				radius: 330,
 				timer: 100,
 
 

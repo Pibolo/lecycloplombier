@@ -969,9 +969,8 @@ a.accordion-toggle  i{
 #partner {
   background: url(../images/partners/partner_bg.jpg) 50% 50% no-repeat;
   background-size: cover;
-}
-
-#partner {
+  margin-top: 66px !important;
+  margin-bottom: 60px !important;
   color: #fff;
   text-align: center;
 }
@@ -2693,3 +2692,12 @@ img[alt="guidon3"] {
   color: #d43133;
 }
 
+div#tagsphere {
+  margin: 0px auto;
+  margin-top: 100px;
+}
+
+#wall {
+  text-align: center;
+  color: #000;
+}

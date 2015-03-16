@@ -2697,6 +2697,10 @@ div#tagsphere {
   margin-top: 100px;
 }
 
+div#tagsphere a {
+  font-size: 30px;
+}
+
 #wall {
   text-align: center;
   color: #000;

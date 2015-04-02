@@ -44,7 +44,7 @@
     }(document, 'script', 'facebook-jssdk'));</script>
     
     <header id="header">
-        <img src="/images/ico/1.png" style="position: absolute; top:-10000px;">
+        <img src="/images/ico/1.png" id="img_fb">
         <div class="top-bar">
             <div class="container">
                 <div class="row">

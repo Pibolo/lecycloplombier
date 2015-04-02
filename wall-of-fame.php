@@ -46,7 +46,7 @@
 	}(document, 'script', 'facebook-jssdk'));</script>
 
 	<header id="header">
-
+		<img src="/images/ico/1.png" id="img_fb">
 		<div class="top-bar">
 			<div class="container">
 				<div class="row">
@@ -56,7 +56,6 @@
 					<div class="col-sm-6 col-xs-8">
 
 						<div class="social">
-
 							<ul class="social-share">
 								<li><a href="https://www.facebook.com/lecycloplombier" target="_blank"><i class="fa fa-facebook"></i></a></li>
 								<li><a href="https://plus.google.com/u/0/110100394692016002602/posts" target="_blank" ><i class="fa fa-google-plus"></i></a></li>
@@ -107,17 +106,17 @@
 		<h1 id="wall">Merci à tous les contributeurs !</h1>
 
 		<script type="text/javascript">
-		$(document).ready(function(){
-			$('#tagsphere').tagSphere({
-				height: 860,
-				width: 860,
-				slower: 0.65,
-				radius: 330,
-				timer: 100,
+			$(document).ready(function(){
+				$('#tagsphere').tagSphere({
+					height: 860,
+					width: 860,
+					slower: 0.65,
+					radius: 330,
+					timer: 100,
 
 
+				});
 			});
-		});
 		</script>
 		<div id="tagsphere">
 			
@@ -209,13 +208,13 @@
 
 
 	<script>
-	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-	ga('create', 'UA-57049471-1', 'auto');
-	ga('send', 'pageview');
+		ga('create', 'UA-57049471-1', 'auto');
+		ga('send', 'pageview');
 
 	</script>
 </body>

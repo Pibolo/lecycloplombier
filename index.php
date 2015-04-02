@@ -43,8 +43,8 @@
   }(document, 'script', 'facebook-jssdk'));</script>
 
   <header id="header">
-  <img src="/images/ico/1.png" id="img_fb">
-    <div class="top-bar">
+      <img src="/images/ico/1.png" id="img_fb">
+      <div class="top-bar">
         <div class="container">
             <div class="row">
                 <div class="col-sm-6 col-xs-4">
@@ -53,7 +53,7 @@
                 </div>
                 <div class="col-sm-6 col-xs-8">
 
-                 <div class="social">
+                   <div class="social">
 
                     <ul class="social-share">
                         <li><a href="https://www.facebook.com/lecycloplombier" target="_blank"><i class="fa fa-facebook"></i></a></li>
